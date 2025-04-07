@@ -4,7 +4,7 @@ I'm a Frontend Developer passionate about crafting sleek, user-friendly interfac
 🌟 What I do:
 
 🔥 Building modern, responsive websites and web apps.
-🎨 Designing engaging user experiences with HTML, CSS, and JavaScript.
+🎨 Designing engaging user experiences with HTML, CSS, and JavaScript, and i also use React Framework.
 🚀 Exploring new technologies and pushing the boundaries of frontend development.
 🌸 A little more about me:
 
